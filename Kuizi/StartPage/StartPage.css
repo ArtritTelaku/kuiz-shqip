@@ -1,0 +1,97 @@
+h1 {
+    text-align: center;
+    color: rgb(1, 1, 8);
+    text-shadow: 0 6px 8px  rgba(0, 0, 0, 0.5);
+    font-size: 3cm;
+}
+
+
+
+ #Kryesorja{
+   text-align: center;
+   font-size: 1.3cm;
+   color: rgb(0, 0, 90);
+   text-shadow: 0 4px 6px rgb(0, 0, 0.5);
+ }
+
+
+ #Llojet{
+   font-size:1cm;
+   color: rgb(0, 0, 90);
+ }
+  
+ #Kuizi1{
+   font-size: 0.8cm;
+   color: rgb(0, 0, 90);
+ }
+
+ #Kuizi2{
+   font-size: 0.8cm;
+   color: rgb(0, 0, 90);
+ }
+
+
+
+
+body {
+	background: linear-gradient(-45deg, #23a6d5, #23d5ab, rgb(149, 87, 250), #d387f7);
+	background-size: 400% 400%;
+	animation: gradient 13s ease infinite;
+	height: 80vh;
+  margin: 30px;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 50% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+#Butoni1{
+  /*background: linear-gradient(-45deg,blue,red,black);*/
+  background-color: #1f03bb;
+  color: rgb(3, 4, 94);
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: darkblue;
+  display: inline-block;
+  font-size: 25px;
+  background-repeat: repeat;
+  border-radius: 20px;
+  transition-duration: 0.5s;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.315), 0 10px 20px 0 rgba(0, 0, 1, 0.438);
+}
+
+#Butoni2{
+  background-color: #1f03bb;
+  color: rgb(3, 4, 94);
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: darkblue;
+  display: inline-block;
+  font-size: 25px;
+  background-repeat: repeat;
+  border-radius: 20px;
+  transition-duration: 0.5s;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.315), 0 10px 20px 0 rgba(0, 0, 1, 0.438);
+}
+
+#Instagram{
+  font-size: medium;
+  color: rgb(5, 4, 3);
+  background-color:transparent;
+  box-shadow:none
+
+}
+
+
+
+ 
+
+
